@@ -1,0 +1,10 @@
+# Build output
+.build/
+.swiftpm/
+build/
+bin/
+
+# Local notes: monitor snapshots and machine-specific history (kept on this Mac only)
+notes/
+
+.DS_Store
